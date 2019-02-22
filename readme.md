@@ -2,10 +2,9 @@
 #### This app has a set of questions for testing JavaScript programmers, 22/02/2019
 #### By **Frederick Onyango**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is application contains 13 questions to test the knowledge of JavaScript beginners. The questions are set such that there are multiple choices for the user to select from, once the user is satisfied on all the answers he/she has chosen then there is a submit button where the user will be able to click and submit his/her answers. The app is real-time as it quickly calculates the users performance based on the correct answers and returns a score. 
 ## Setup/Installation Requirements
 This app does not require pre-installation package for it to run you only need an access to the link and you just launch it on your browser and answer the questions.
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
