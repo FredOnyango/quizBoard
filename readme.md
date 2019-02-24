@@ -2,11 +2,11 @@
 #### This app has a set of questions for testing JavaScript programmers, 22/02/2019
 #### By **Frederick Onyango**
 ## Description
-This is application contains 13 questions to test the knowledge of JavaScript beginners. The questions are set such that there are multiple choices for the user to select from, once the user is satisfied on all the answers he/she has chosen then there is a submit button where the user will be able to click and submit his/her answers. The app is real-time as it quickly calculates the users performance based on the correct answers and returns a score. 
+This is application contains 12 questions to test the knowledge of JavaScript beginners. The questions are set such that there are multiple choices for the user to select from, once the user is satisfied on all the answers he/she has chosen then there is a submit button where the user will be able to click and submit his/her answers. The app is real-time as it quickly calculates the users performance based on the correct answers and returns a score. If the user fails to answer a question he will receive a Nan answer, meaning there will be no grade despite attempting some of the quizes, therefore the user must attempt all questions for him/her to get a score.
 ## Setup/Installation Requirements
 This app does not require pre-installation package for it to run you only need an access to the link and you just launch it on your browser and answer the questions.
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+As at the time of launching this app the developer had not come across issues that may hinder the functionality of this app. 
 ## Technologies Used
 * Jquery 3.3.1.js
 * Bootstrap
