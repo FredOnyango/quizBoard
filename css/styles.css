@@ -3,7 +3,7 @@ align-self: center;
    background: url(../images/jsquizpic.jpg);
    background-size: contain;
    width: 800px;
-   padding:50px;
+   padding-left:20px;
    text-align: left;
    margin:auto;
    color:#16A085;
@@ -13,10 +13,10 @@ align-self: center;
 .button{
    background: #AEB6BF;
 }
-#box{
+#topbanner{
    width: 900px;
-   padding:100px;
-   text-align: center;
+   padding:50px;
+   text-align: left;
    margin:auto;
    color:black;
    font-family: sans-serif;
