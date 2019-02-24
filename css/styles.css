@@ -25,3 +25,6 @@ align-self: center;
 #q1{
   color: #A04000;
 }
+html {
+  overflow-y: scroll;
+}
