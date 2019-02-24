@@ -18,7 +18,7 @@ $(document).ready(function() {
     if (score>70) {
       $("#input").text("Your score is: " + score + " you have qualified to be a TM");
     } else {
-      $("#input").text("Your score is: " + score + " up you game");
+      $("#input").text("Your score is: " + score + " up you game!");
     }
   });
 });
