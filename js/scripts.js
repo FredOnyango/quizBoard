@@ -1,3 +1,4 @@
+//user interface logic.
 $(document).ready(function() {
   $("#quiz").submit(function(event){
     event.preventDefault();
@@ -13,7 +14,7 @@ $(document).ready(function() {
     var q10 = parseInt($("[name=ans10]:checked").val());
     var q11 = parseInt($("[name=ans11]:checked").val());
     var q12 = parseInt($("[name=ans12]:checked").val());
-
+// business logic.
     var score = parseInt(q1+q2+q3+q4+q5+q6+q7+q8+q9+q10+q11+q12);
     if (score>70) {
       $("#input").text("Your score is: " + score + " you have qualified to be a TM");
